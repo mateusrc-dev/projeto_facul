@@ -1,1 +1,1 @@
-Projetinho da facul muito bacana!
+Projetinho da facul muito bacana onde criei uma tabela pra treinar conceitos de HTML e CSS!
