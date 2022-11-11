@@ -1,0 +1,164 @@
+body {
+  font-family: arial;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+tbody tr td:nth-child(even) {
+  background: #F7F7F7;
+}
+
+span {
+  font-weight: bold;
+  font-family: arial;
+  margin-right: 5px;
+  font-size: 18px;
+}
+
+table {
+  border: 1px solid #DDDDDD;
+  font-family: arial;
+  border-spacing: 0px;
+  width: 500px;
+}
+
+table tbody tr td:nth-child(2) {
+  font-weight: bold;
+  font-size: 14px;
+  text-align: center;
+  color: black;
+}
+
+table tbody tr td {
+  border: 1px solid #DDDDDD;
+  border-left: none;
+  border-bottom: none;
+  font-weight: normal;
+  font-size: 14px;
+  text-align: center;
+  color: #666666;
+}
+
+.border {
+  border: 1px solid #DDDDDD;
+  border-left: none;
+}
+
+table tbody tr td:last-child {
+  border-right: none;
+}
+
+thead tr th {
+  padding: 4px;
+  border-right: none;
+  border-bottom: none;
+  color: #999999;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+
+.azulescuro {
+  color: #003366;
+  text-align: center;
+  padding-left: 6px;
+}
+
+.azulclaro {
+  color: #1398BE;
+  text-align: center;
+  padding-left: 6px;
+}
+
+.cinza {
+  color: #CCCCCC;
+  text-align: center;
+  padding-left: 6px;
+}
+
+.vermelho {
+  color: #C91B04;
+  text-align: center;
+  padding-left: 6px;
+}
+  
+.laranja {
+  color: #DE9800;
+  text-align: center;
+  padding-left: 6px;
+}
+
+table tbody tr td:first-child {
+  font-weight: bold;
+  font-size: 14px;
+  color: #666666;
+  text-align: left;
+}
+
+
+.boxOne {
+  width: 15px;
+  height: 15px;
+  border-radius: 5px;
+  background: #003366;
+}
+
+.boxTwo {
+  width: 15px;
+  height: 15px;
+  border-radius: 5px;
+  background: #1398BE;
+}
+
+.boxThree {
+  width: 15px;
+  height: 15px;
+  border-radius: 5px;
+  background: #DE9800;
+}
+
+.boxFour {
+  width: 15px;
+  height: 15px;
+  border-radius: 5px;
+  background: #C91B04;
+}
+
+.Boxs {
+  display: flex;
+  gap: 5px;
+}
+
+.boxs {
+  display: flex;
+  gap: 3px;
+  font-size: 10px;
+  color: #8f8f8f;
+  align-items: center;
+  font-family: arial;
+}
+
+.frase {
+  font-size: 10px;
+  color: #555555;
+  text-align: left;
+  font-family: arial;
+}
+
+.footer {
+  padding: 10px;
+  border: 1px solid #DDDDDD;
+  width: 478px;
+  border-top: none;
+}
+
+.sigla {
+  font-weight: bold;
+  font-size: 10px;
+  color: #555555;
+}
+
+
